@@ -6,7 +6,7 @@ class Solution {
         boolean[] rowf = new boolean[n];          
         boolean[] colf = new boolean[n];         
         boolean[] d1f = new boolean[2 * n - 1];   
-        boolean[] d2f = new boolean[2 * n - 1];   
+        boolean[] d2f = new boolean[2 * n - 1];  //6 
 
         List<List<String>> result = new ArrayList<>();
         char[][] board = new char[n][n];
