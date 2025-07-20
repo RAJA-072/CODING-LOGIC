@@ -1,7 +1,7 @@
 class Solution {
 
     static int findFloor(int[] arr, int x) {
-        // write code here
+        
         int l=0;
         int r=arr.length-1;
         int k=-1;
