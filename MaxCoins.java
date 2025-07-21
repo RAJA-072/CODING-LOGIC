@@ -5,7 +5,7 @@ public class MaxCoins {
         int prefixsum[][]=new int [r][c+1];
         for(int i=0;i<r;i++){
             for(int j=1;j<=c;j++){
-                prefixsum[i][j]=prefixsum[i][j-1]+coins[i][j-1];
+                prefixsum[i][j]=prefixsum[i][j-1]+coins[i][j-1];    //prefixsum
             }
         }
 
