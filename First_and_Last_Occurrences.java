@@ -1,4 +1,4 @@
-// User function Template for Java
+
 
 class GFG {
     ArrayList<Integer> find(int arr[], int x) {
