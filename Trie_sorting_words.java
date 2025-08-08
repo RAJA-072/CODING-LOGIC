@@ -19,7 +19,7 @@ class Solution{
         }
         buildTrie(word, curr, idx+1);
     }
-
+//print the trie
     private static void printTrie(Trie t){
         
         if(t.word!=null){
