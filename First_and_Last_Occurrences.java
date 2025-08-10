@@ -2,7 +2,7 @@
 
 class GFG {
     ArrayList<Integer> find(int arr[], int x) {
-        // code here
+        
         int l=0;
         int r=arr.length-1;
         int min=-1,max=-1;
