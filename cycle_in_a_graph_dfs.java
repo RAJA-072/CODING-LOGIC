@@ -14,7 +14,7 @@ class Solution {
         return false;
     }
     public boolean isCycle(int V, int[][] edges) {
-        // Code here
+        
         LinkedList<Integer> adj[]=new LinkedList[V];
         int R=edges.length;
         for(int i=0;i<V;i++){
