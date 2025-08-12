@@ -3,7 +3,7 @@ class Trie{
     Trie[] chars=new Trie[26];
 }
 
-
+//Trie structure implemented
 class Solution {
     public List<String> result=new ArrayList<>();
     
