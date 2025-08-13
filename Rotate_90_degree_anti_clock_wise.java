@@ -1,5 +1,5 @@
 class Solution {
-    // Function to rotate matrix anticlockwise by 90 degrees.
+   
     static void rotateby90(int mat[][]) {
         // code here
         int n=mat.length;
