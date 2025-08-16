@@ -1,5 +1,5 @@
 import java.util.*;
-
+//Main Class
 public class Main {
     static class Point {
         int x, y, dist;
